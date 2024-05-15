@@ -1,0 +1,9 @@
+{
+    "modulePath": "../sdks/sdk1.js",
+    "testParams": {
+      "creditAmount": 100,
+      "account": "123-456",
+      "apiUrl": "https://api.example.com"
+    }
+  }
+  
